@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a10f3b46933e46ac17a0205e",
+  "owner": "erjwrgjj",
+  "repo": "page-98d497d19845fa9a2c26efec",
+  "title": "TNT",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "98d497d19845fa9a2c26efec",
+      "a": "TNT",
+      "b": "机场官网线路发布页",
+      "entity": "TNT",
+      "brand": "TNT",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5375750bf743d2bb0a954ad3b8a344320b58d234f827e59d542fd13cc97fd1ae",
+      "content": {
+        "primary_entity": "TNT",
+        "keyword1": "TNT",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "客户端选择按设备系统区分，Windows、macOS、Android、iOS 与路由器各有对应订阅导入方式。",
+          "AI_CLIENTS_TITLE": "客户端选择与配置",
+          "AI_CLOSING_TEXT": "选定套餐后导入订阅，让每一台常用设备都连上 TNT 的线路。",
+          "AI_CLOSING_TITLE": "开始使用 TNT",
+          "AI_DESCRIPTION": "，TNT 提供多档海外加速套餐，覆盖基础流量到团队高带宽场景，支持多设备同时在线、流媒体解锁与专线游戏优化，按客户端导入订阅即可使用。",
+          "AI_FAQ_ANSWER_1": "设备数量按套餐区分：基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。连接超出上限时，新设备会挤掉最先登录的一台，建议按实际常用设备数选择。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。轻度浏览与视频选基础版，多设备高频使用建议旗舰版，团队共享或大流量下载选团队版。",
+          "AI_FAQ_ANSWER_3": "年付比月付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合确定长期使用的用户。短期试用可先选月付，再决定是否切换周期。",
+          "AI_FAQ_ANSWER_4": "在客户端里粘贴 TNT 提供的订阅链接并更新，即可拉取节点列表。不同系统的导入位置略有差异，按对应客户端文档操作，导入后刷新节点即可选择线路。",
+          "AI_FAQ_ANSWER_5": "旗舰版加入 IPLC 专线游戏加速优化，并配有 7x24 优先工单支持，适合对延迟和稳定性要求高的场景。团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时连几台设备？",
+          "AI_FAQ_QUESTION_2": "每月流量用完了怎么办？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选更划算？",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "游戏加速和团队需求选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "TNT 在套餐、设备与订阅周期上提供清晰选择。",
+          "AI_FEATURES_TITLE": "选择 TNT 的理由",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按用量与设备数挑选。",
+          "AI_FEATURE_TITLE_1": "三档套餐对应用量",
+          "AI_FEATURE_TEXT_2": "基础版 3 台到团队版 20 台，多设备用户可匹配同时在线数量。",
+          "AI_FEATURE_TITLE_2": "设备数量按需匹配",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从套餐选择到客户端订阅导入，三步完成 TNT 配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "TNT 是面向多设备用户的海外加速服务，提供基础版、旗舰版与团队版三档套餐，覆盖流媒体解锁、IPLC 专线游戏优化与高带宽节点，按客户端导入订阅即可稳定使用。",
+          "AI_HERO_SUBTITLE": "TNT 海外加速，多设备稳定连接",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "最多 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线游戏加速优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按每月流量、同时在线设备数和是否需要游戏加速，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "确认常用设备系统与客户端类型，核对订阅所需的信息，挑选合适的节点线路。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅链接，更新节点后即可开始使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "TNT 加速套餐一览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jliaoy.cn",
+    "host": "jliaoy.cn"
+  },
+  "file_hashes": {
+    "index.html": "f6f25e30f240ce11545e1cee6a8fed51a42fcc169446be7a23b17ba22b36bc9f",
+    "sitemap.xml": "011cd8e687d40aa946355bed4b989419c61bfb3b18f6b818234acdea599fe93c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5a0a5831f3d0cff45b9bb77785483f327299ff5225a36625ae580e291079f18b",
+    "robots.txt": "b5a458a2007d1c15421733a92e0aafef36be8db6ea8505d77552de7ff54a80f0",
+    "fdc72f121abc8ccc8263c3b55f5d6b8c.txt": "97d9560b76eadea5f6c62ad3749f5ea846380eecb0b135a6131dba3079fbc00c"
+  },
+  "revision": "68a5c03f3785e44d7b950c93f93ca8505a366d8e3191484c437e284ef20a0988"
+}
